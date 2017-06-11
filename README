@@ -1,0 +1,10 @@
+Program pozwala na odczytanie informacji o danym urzadzeniu, jego liste atrybutow i wartosc danego atrybuty
+
+Przykladowe linki:
+http://127.0.0.1:5000/devices/sys/tg_test/1
+http://127.0.0.1:5000/devices/sys/database/2
+http://127.0.0.1:5000/devices/sys/database/2/attributes
+http://127.0.0.1:5000/devices/sys/database/2/attributes/state
+
+
+Do uruchomienia programu potrzebujemy tango test.
